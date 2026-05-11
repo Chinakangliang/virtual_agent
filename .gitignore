@@ -1,0 +1,29 @@
+# Environment
+.env
+*.env
+
+# Data & cache
+data/
+*.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# HuggingFace models (large files)
+hf_cache/
+*.safetensors
+*.bin
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
