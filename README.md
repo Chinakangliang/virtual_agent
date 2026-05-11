@@ -1,4 +1,3 @@
-<img width="896" height="1395" alt="522cab0a1c0dbf8f57e8f125f1dfa982" src="https://github.com/user-attachments/assets/c5920f20-82ba-450b-884d-ba721494a535" /><div align="center">
 
 # Virtual Agent
 
