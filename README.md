@@ -1,4 +1,4 @@
-<div align="center">
+<img width="896" height="1395" alt="522cab0a1c0dbf8f57e8f125f1dfa982" src="https://github.com/user-attachments/assets/c5920f20-82ba-450b-884d-ba721494a535" /><div align="center">
 
 # Virtual Agent
 
@@ -559,6 +559,7 @@ virtual_agent/
 ├── input/normalizer.py       # 文字 / 图片 / 表情处理
 └── input/image_analyzer.py   # Florence-2 视觉模型
 ```
+<img width="896" height="1395" alt="522cab0a1c0dbf8f57e8f125f1dfa982" src="https://github.com/user-attachments/assets/8f02048d-99a1-48ec-844c-eb859b50677d" />
 
 ---
 
